@@ -1,0 +1,3 @@
+Footer${user}
+</body>
+</html>
